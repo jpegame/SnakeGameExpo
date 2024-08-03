@@ -5,7 +5,7 @@ Este projeto é sobre uma variação do jogo da cobrinha, com adição de perda 
 ## Instalação
 Após clonar o repositório na sua máquina será necessário executar comandos no terminal, começe criando um ambiente virtual usando:
 ```bash
-python3.12 -m venv venv
+python -m venv venv
 ```
 Se a política de ativação do ambiente virtual estiver bloquada use:
 ```bash
